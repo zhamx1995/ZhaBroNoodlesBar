@@ -1,6 +1,6 @@
 文件名：yyyymmdd.md
 
-示例：选择自己的emoji，注上昵称。在menu后面粘贴自己的emoji，如“韩式辣锅 :smile: :ghost: :alien:”
+示例：选择自己的emoji（或从[官网](https://unicode.org/emoji/charts/full-emoji-list.html)上改成自己喜欢的），注上昵称。在menu后面粘贴自己的emoji，如“韩式辣锅 :smile: :ghost: :alien:”。点单确认后发pull request到ZhaBroNoodleBar/orders这个folder
 
 :smile: 昵称：ZhaBra
 
